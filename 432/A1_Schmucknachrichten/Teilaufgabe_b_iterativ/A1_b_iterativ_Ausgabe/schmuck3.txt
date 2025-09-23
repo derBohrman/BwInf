@@ -1,0 +1,12 @@
+Runtime: 0s
+Pearllengths in mm: 1,2,3
+Messagelength in mm: 279
+a: [2]
+c: [1]
+d: [0,2,2]
+e: [0,2,1]
+g: [0,2,0]
+f: [0,1,2]
+h: [0,1,1]
+ : [0,1,0]
+b: [0,0]

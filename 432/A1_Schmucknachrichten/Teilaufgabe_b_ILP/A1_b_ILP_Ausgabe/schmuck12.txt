@@ -1,0 +1,8 @@
+Runtime: 0.07s
+Pearllengths in mm: 1,2,2
+Messagelength in mm: 11
+Solution Data: 0,0,3,1,0,0,0,0,0
+d: [0,0]
+a: [2]
+b: [1]
+c: [0,2]
