@@ -1,0 +1,12 @@
+Runtime: 0.052s
+cultivation plan:
+     Tomate    Tomate    Tomate    Paprika   Paprika   Paprika   Zwiebel   Zwiebel   Zwiebel   Zucchini  Zucchini  Zucchini 
+     Linsen    Kartoffel Kartoffel Kartoffel Kohlrabi  Kohlrabi  Kohlrabi  Kartoffel Kartoffel Kartoffel Linsen    Linsen   
+     Pastinake Pastinake Apfel     Apfel     Apfel     Banane    Banane    Banane    Paprika   Paprika   Paprika   Pastinake
+bin: 1         1         1         1         1         0         1         1         1         1         0         0
+binSum: 9
+Path:
+1,1,1,1,1,1,0,1,0,1,0,0 binSum: 8 Pattern: 1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,0,0,1,1,0,0 binSum: 8 Pattern: 1,1,1,1,1,1,0,0
+1,1,1,1,1,0,1,1,1,1,0,0 binSum: 9 Pattern: 1,1,1,1,1,0
+

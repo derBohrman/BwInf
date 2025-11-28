@@ -1,0 +1,37 @@
+Runtime: 0.202s
+
+Distinct solutions: 3042
+
+most distinct Figures (pink):
+2 distinct Figures
+custom44→custom1
+ABCDEFGHIJKLMNOP
+CABDGEFHKIJLOMNP
+ABCDEFGHIJKLMNOP
+
+most Figures (yellow):
+2 Figures
+custom44→custom1
+ABCDEFGHIJKLMNOP
+CABDGEFHKIJLOMNP
+ABCDEFGHIJKLMNOP
+
+least Figures (blue):
+1 Figures
+custom90
+ABCDEFGHIJKLMNOP
+ABCDEFGHIJKLMNOP
+
+longest Distance (green):
+64m
+custom14→custom3
+ABCDEFGHIJKLMNOP
+CDBAGHFEKLJIOPNM
+ABCDEFGHIJKLMNOP
+
+shortest Distance (red):
+0m
+custom56→custom56
+ABCDEFGHIJKLMNOP
+ABCDEFGHIJKLMNOP
+ABCDEFGHIJKLMNOP

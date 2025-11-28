@@ -1,0 +1,13 @@
+Runtime: 0.128s
+X.X....XXX..
+X..X.X.XXXXX
+X.....X..XXX
+XX...X..XXXX
+........X..X
+X....XX.XXXX
+..X.XXXXX.X.
+XX..XX.XXX.X
+X...X..XXX.X
+..X.....X.X.
+.X.X.X..XX.X
+X..XX..XXXX.

@@ -1,0 +1,10 @@
+Runtime: 0.009s
+cultivation plan:
+     Kartoffel Kartoffel Kartoffel Reis      Reis      Reis      Kartoffel Kartoffel Kartoffel Kartoffel Kartoffel Kartoffel
+     Kartoffel Zwiebel   Zwiebel   Zwiebel   Kartoffel Kartoffel Kartoffel Kartoffel Kartoffel Kartoffel Kartoffel Kartoffel
+     Kartoffel Kartoffel Möhre     Möhre     Möhre     Zwiebel   Zwiebel   Zwiebel   Kartoffel Kartoffel Kartoffel Kartoffel
+bin: 1         1         1         1         0         0         0         0         0         0         0         0
+binSum: 4
+Path:
+1,1,1,1,0,0,0,0,0,0,0,0 binSum: 4 Pattern: 1,1,1,1,1,1,1,1,1,1,1,1
+

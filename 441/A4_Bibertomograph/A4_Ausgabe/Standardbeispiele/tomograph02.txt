@@ -1,0 +1,5 @@
+Runtime: 0.127s
+..X.
+XX..
+XXXX
+X..X

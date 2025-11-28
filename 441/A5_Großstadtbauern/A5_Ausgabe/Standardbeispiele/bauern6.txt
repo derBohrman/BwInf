@@ -1,0 +1,10 @@
+Runtime: 0.186s
+cultivation plan:
+     P P P L L L B B B W W W
+     M B B B H H H G G G M M
+     V V A A A R R R Z Z Z V
+bin: 1 1 1 1 1 1 1 1 1 1 0 0
+binSum: 10
+Path:
+1,1,1,1,1,1,1,1,1,1,0,0 binSum: 10 Pattern: 1,1,1,1,1,1,1,1,1,1,1,1
+

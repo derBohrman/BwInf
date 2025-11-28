@@ -1,0 +1,9 @@
+Runtime: 0.002s
+cultivation plan:
+     Möhre       Möhre       Möhre       Paprika     Paprika     Paprika     Champignons Champignons Champignons Petersilie  Petersilie  Petersilie 
+     Kartoffel   Kartoffel   Kartoffel   Kartoffel   Tomate      Tomate      Tomate      Zwiebel     Zwiebel     Zwiebel     Kartoffel   Kartoffel  
+     Kartoffel   Kartoffel   Zwiebel     Zwiebel     Zwiebel     Reis        Reis        Reis        Tomate      Tomate      Tomate      Kartoffel  
+bin: 1           1           1           1           0           1           0           1           0           0           0           0
+binSum: 6
+Path:
+1,1,1,1,0,1,0,1,0,0,0,0 binSum: 6 Pattern: 1,1,1,1,1,1,1,1,1,1,1,1
