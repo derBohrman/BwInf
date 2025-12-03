@@ -192,7 +192,9 @@ async function getImage(frameInd) {
  }
  let [dis, [k, p], [s, nArr, lArr]] = imageData[frameInd]
  let dark = window.matchMedia("(prefers-color-scheme: dark)").matches
- let c = new OffscreenCanvas(vidC.width, vidC.height)
+ let c = typeof OffscreenCanvas !== "undefined" ? new OffscreenCanvas(vidC.width, vidC.height) : document.createElement("canvas")
+ c.width = vidC.width
+ c.height = vidC.height
  let ctx = c.getContext("2d")
  ctx.fillStyle = dark ? "black" : "white"
  ctx.fillRect(0, 0, c.width, c.height)
