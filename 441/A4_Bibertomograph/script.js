@@ -1,3 +1,4 @@
+let glpk
 function triggerFileUpload() {
  let fileInput = document.getElementById("fileUpload")
  fileInput.value = null
@@ -15,6 +16,7 @@ document.getElementById("fileUpload").addEventListener("change", function (event
      lines[i][j] = +lines[i][j]
     }
    }
+   glpk = glpk || await GLPK()
    let startTime = Date.now()
    let field = await main(+n, lines.splice(0, 4))
    let runtime = (Date.now() - startTime) / 1000
@@ -46,7 +48,6 @@ function converter(n) {
 }
 //Finde eine möglichst unterschiedliche Belegung im Vergleich zum bisher rekonstruierten Feld
 async function ILPSolve(sumToField, sums, field) {
- let glpk = await GLPK()
  let problem = {
   name: "A4_ILP",
   objective: { direction: glpk.GLP_MAX, vars: [] },
